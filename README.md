@@ -2,8 +2,6 @@
 
 A mobile application for monitoring **car tire pressure and temperature** in real-time, developed as a Final Project for the D3 Telecommunications Engineering program at **PENS (Politeknik Elektronika Negeri Surabaya)**.
 
-This project was showcased at the **Final Project Exhibition Competition** in June 2023.
-
 ---
 
 ## 📱 About The Project
